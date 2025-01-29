@@ -30,10 +30,6 @@ you are done with configuration and have successfully made a test payment.
 
 * [PayChangu Documentation](https://developer.paychangu.com/docs)
 
-## Support
-
-For bug reports and feature requests directly related to this plugin, please use the [issue tracker](https://github.com/PaystackHQ/plugin-whmcs/issues). 
-
 ## Community
 
 If you are a developer, please join our Developer Community on [Whatsapp](https://chat.whatsapp.com/Hau9JVfjrs34zFuu1zTgpE).
