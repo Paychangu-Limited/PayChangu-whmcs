@@ -22,9 +22,9 @@ Here you can browse the source code, look at open issues and keep track of devel
 you are done with configuration and have successfully made a test payment.
 
 ### Install
-1. Copy [paychangu.php](modules/gateways/paystack.php?raw=true) in [modules/gateways](modules/gateways) to the `/modules/gateways/` folder of your WHMCS installation.
+1. Copy [paychangu.php](modules/gateways/paychangu.php?raw=true) in [modules/gateways](modules/gateways) to the `/modules/gateways/` folder of your WHMCS installation.
 
-2. Copy [paychangu.php](modules/gateways/callback/paystack.php?raw=true) in [modules/gateways/callback](modules/gateways/callback) to the `/modules/gateways/callback` folder of your WHMCS installation.
+2. Copy [paychangu.php](modules/gateways/callback/paychangu.php?raw=true) in [modules/gateways/callback](modules/gateways/callback) to the `/modules/gateways/callback` folder of your WHMCS installation.
 
 ## Documentation
 
