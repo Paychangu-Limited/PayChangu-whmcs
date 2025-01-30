@@ -17,7 +17,7 @@ Here you can browse the source code, look at open issues and keep track of devel
 
 ### Prepare
 
-- Before you can start taking payments through Paystack, you will first need to sign up at: 
+- Before you can start taking payments through PayChangu, you will first need to sign up at: 
 [https://in.paychangu.com/register]. To receive live payments, you should request a Go-live after
 you are done with configuration and have successfully made a test payment.
 
